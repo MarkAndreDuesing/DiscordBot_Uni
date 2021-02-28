@@ -22,7 +22,7 @@ all_fun_facts = ["Banging your head against a wall for one hour burns 150 calori
 					 "Bananas are curved because they grow towards the sun.", "53.091 students were enrolled @LMU in the WS 2019/2020",
 				 "787 Professors performed research @LMU", "LMU was Bavaria's first University", "LMU was founded in 1472",
 				 "1918 wurde der erste Studenten Ausschuss an der LMU gegründet", "1919 Max Weber joins the LMU faculty",
-				 "The Simpsons Paradox is not really a paradox"]
+				 "The Simpsons Paradox is not really a paradox","Max is super lame."]
 
 sad_words = ["Ich geb auf", "Ich schaffe das nicht", "Das ist schwer", "traurig", "schwer", "hart", "So ein Müll"]
 
